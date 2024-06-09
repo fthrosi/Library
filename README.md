@@ -2,7 +2,7 @@
 ## Kelas D Kelompok 6
 ## Anggota Kelompok:
 - Fathur Rosi(210711562) - User front-end dan back-end dan integrasi user dan admin
-- I Putu Budi Subawa(210711490) - Admin front-end dan back-end dan integrasi user dan admin
+- I Putu Budi Subawa(210711490) - Admin front-end dan back-end
 - Davan Khadafi(210711384) - Support
 ## Username & Password Login:
 - Login User:
